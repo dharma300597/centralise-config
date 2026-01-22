@@ -5,7 +5,7 @@ loans:
   message: "Welcome to microservice learning production environment from config server of git server"
   contactDetails:
     name: "Sudhersan Deo - Developer"
-    email: "5c85d3e33de0717d4a36beef89930b8c7f05f4fe55a275d565f02cea7fef8f23729fa6b83dc13a9b81c4bbc10677fbe6"
+    email: "{cipher}5c85d3e33de0717d4a36beef89930b8c7f05f4fe55a275d565f02cea7fef8f23729fa6b83dc13a9b81c4bbc10677fbe6"
   onCallSupport:
     - 303859858985
     - 934758437674
