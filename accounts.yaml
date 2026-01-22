@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to microservice learning from config server"
+  contactDetails:
+    name: "John Deo default - Developer"
+    email: "jdoe@gmail.com"
+  onCallSupport:
+    - 303859858985
+    - 934758437674
+

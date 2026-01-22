@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to microservice learning for QA environment of config server"
+  contactDetails:
+    name: "Arun - Developer"
+    email: "arunAnandhan@gmail.com"
+  onCallSupport:
+    - 797866742858
+    - 934758436740

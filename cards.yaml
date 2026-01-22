@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to Card microservice learning from config service"
+  contactDetails:
+    name: "John Deo - Developer"
+    email: "jdoe@gmail.com"
+  onCallSupport:
+    - 303859858985
+    - 934758437674
