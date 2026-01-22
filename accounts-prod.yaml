@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to microservice learning production environment of config server"
+  message: "Welcome to microservice learning production environment of config server from git server"
   contactDetails:
     name: "Sudhersan Deo - Developer"
     email: "ssampath@gmail.com"
