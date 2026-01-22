@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to microservice learning for QA environment of config server"
+  message: "Welcome to microservice learning for QA environment of config server fetched from  git "
   contactDetails:
     name: "Arun - Developer"
     email: "arunAnandhan@gmail.com"
